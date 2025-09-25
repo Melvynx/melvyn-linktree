@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faLinkedinIn, faXTwitter, faGlobe } from '@fortawesome/free-brands-svg-icons';
+import { faLinkedinIn, faXTwitter } from '@fortawesome/free-brands-svg-icons';
 import { faGlobe as faGlobeSolid } from '@fortawesome/free-solid-svg-icons';
 import { Button } from "@/components/ui/button";
 
